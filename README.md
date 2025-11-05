@@ -1,8 +1,8 @@
-# 🧩 TripleTen Projects – Portfólio de Análise de Dados
+# 🧩 Projetos reais com a TripleTen – Portfólio de Análise de Dados
 
-Este repositório reúne os projetos desenvolvidos durante o curso de **Análise de Dados da TripleTen**, aplicando técnicas práticas de **Python**, **Pandas**, **SQL**, **Matplotlib** e **Jupyter Notebook**.
+Este repositório reúne os projetos desenvolvidos durante o curso de **Análise de Dados da TripleTen**, aplicando técnicas práticas de **Python**, **Pandas**, **Matplotlib** e **Jupyter Notebook**.
 
-Cada projeto reflete etapas reais de um processo analítico — desde a preparação e limpeza dos dados até a exploração e apresentação dos resultados.
+Cada projeto reflete etapas reais de um processo analítico — desde a preparação, limpeza e manipulação dos dados até a exploração e apresentação dos resultados.
 
 ---
 
