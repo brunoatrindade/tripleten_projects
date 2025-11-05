@@ -1,0 +1,16 @@
+# Projeto 3 - Análise Exploratória de Dados (EDA): Comportamento de Compras em Aplicativo de Entrega de Supermercado (Delivery)
+
+Este projeto foi desenvolvido junto com a TripleTen, utilizando **Python**, **Pandas** e **Jupyter Notebook**.
+
+## Estrutura do projeto
+- `notebooks/` — contém o notebook principal com toda a análise
+- `data/` — contém os dados utilizados (ou instruções para obtê-los)
+- `outputs/` — resultados, gráficos e relatórios exportados
+
+## Tecnologias usadas
+- Python 3
+- Pandas
+- Jupyter Notebook
+- Matplotlib / Seaborn 
+
+## O foco principal do projeto foi a Análise Exploratória e Descritiva de Vendas e Comportamento do Cliente com a Otimização de Vendas e Logística em Plataforma de Delivery 
