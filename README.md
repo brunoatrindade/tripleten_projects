@@ -31,4 +31,4 @@ Nessa pasta do meu portfólio meu foco é demonstrar domínio nas etapas essenci
 ## Objetivo do portfólio
 Demonstrar habilidades práticas de análise de dados, comunicação de resultados e documentação de projetos.  
 Cada notebook foi desenvolvido com foco em **clareza, replicabilidade e aprendizado aplicado ao mercado.**
-Esses foram os três primeiros projetos desenvolvidos por mim para 
+Esses foram os três primeiros projetos desenvolvidos por mim para a TripleTen Brasil.
