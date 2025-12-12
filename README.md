@@ -1,12 +1,14 @@
-# 🧩 Projetos reais com a TripleTen – Portfólio de Análise de Dados
+# Projetos reais com a TripleTen – Portfólio de Análise de Dados
 
-Este repositório reúne os projetos desenvolvidos durante o curso de **Análise de Dados da TripleTen**, aplicando técnicas práticas de **Python**, **Pandas**, **Matplotlib** e **Jupyter Notebook**.
+Este repositório reúne os projetos desenvolvidos durante o curso de **Análise de Dados** da TripleTen, aplicando técnicas práticas de **Python**, **Pandas**, **Matplotlib**, **Seaborn** em **Jupyter Notebook**.
 
-Cada projeto reflete etapas reais de um processo analítico — desde a preparação, limpeza e manipulação dos dados até a exploração e apresentação dos resultados.
+Cada um dos três projetos dessa pasta reflete etapas reais de um processo analítico, desde a preparação, limpeza e manipulação dos dados até a exploração e apresentação dos resultados.
+
+Nessa pasta do meu portfólio meu foco é demonstrar domínio nas etapas essenciais da análise de dados, **nesses projetos eu faço a prepararação do dados, a exploração e a comunicação de insights.** Trabalho desde a leitura e limpeza avançada dos dados (tratando ausências, duplicatas e filtragens estratégicas) até a criação de novas variáveis, combinações entre tabelas e visualizações que apoiam decisões de negócio. Cada projeto aplica esse ciclo completo para resolver problemas reais, incluindo análises aprofundadas em grandes bases, como o dataset do Instacart no Projeto 3, sempre com clareza, rigor e visão prática.
 
 ---
 
-## 📂 Estrutura dos Projetos
+## Estrutura dos Projetos
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
@@ -16,7 +18,7 @@ Cada projeto reflete etapas reais de um processo analítico — desde a prepara�
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python 3  
 - Pandas  
 - NumPy  
@@ -26,6 +28,7 @@ Cada projeto reflete etapas reais de um processo analítico — desde a prepara�
 
 ---
 
-## 📈 Objetivo do portfólio
+## Objetivo do portfólio
 Demonstrar habilidades práticas de análise de dados, comunicação de resultados e documentação de projetos.  
 Cada notebook foi desenvolvido com foco em **clareza, replicabilidade e aprendizado aplicado ao mercado.**
+Esses foram os três primeiros projetos desenvolvidos por mim para 
