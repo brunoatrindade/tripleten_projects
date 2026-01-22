@@ -1,6 +1,6 @@
-# Projetos reais com a TripleTen – Portfólio de Análise de Dados
+# Projetos com Limpeza de Dados, Pré-processamento de Dados, Análise Exploratória, Análise Estatísitica, Visualização de Dados (TripleTen Brasil).
 
-Este repositório reúne os projetos desenvolvidos durante o curso de **Análise de Dados** da TripleTen, aplicando técnicas práticas de **Python**, **Pandas**, **Matplotlib**, **Seaborn** em **Jupyter Notebook**.
+Este repositório reúne 3 projetos desenvolvidos durante o curso de **Análise de Dados** da TripleTen Brasil, aplicando técnicas práticas de **Python**, **Pandas**, **Matplotlib**, **Seaborn** em **Jupyter Notebook**.
 
 Cada um dos três projetos dessa pasta reflete etapas reais de um processo analítico, desde a preparação, limpeza e manipulação dos dados até a exploração e apresentação dos resultados.
 
