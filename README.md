@@ -1,4 +1,4 @@
-# Projetos com Limpeza de Dados, Pré-processamento de Dados, Análise Exploratória, Análise Estatísitica, Visualização de Dados (TripleTen Brasil).
+# Projetos com Limpeza de Dados, Pré-processamento de Dados, Análise Exploratória, Análise Estatísitica, Visualização de Dados. Casos reais de empresas de Streaming e Delivery.
 
 Este repositório reúne 3 projetos desenvolvidos durante o curso de **Análise de Dados** da TripleTen Brasil, aplicando técnicas práticas de **Python**, **Pandas**, **Matplotlib**, **Seaborn** em **Jupyter Notebook**.
 
